@@ -53,4 +53,4 @@ A modern, feature-rich to-do list application with dark mode, local storage pers
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) *(https://ngatourrohman.github.io/smart-todo-list)*
+[View Live Demo](https://ngatourrohman.github.io/smart-todo-list)
