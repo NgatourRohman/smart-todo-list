@@ -262,7 +262,7 @@ function createTodo(todoObject) {
     const btnStatus = document.createElement('button');
     btnStatus.dataset.id = todoObject.id;
 
-    btnStatus.className = todoObject.isCompleted ? 'uncheck-button' : 'check-button';
+    btnStatus.className = todoObject.isCompleted ? 'check-button' : 'uncheck-button';
     const icon = document.createElement('span');
     icon.className = 'icon-check';
     btnStatus.append(icon);
