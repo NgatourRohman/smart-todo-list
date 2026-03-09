@@ -2,7 +2,7 @@
 
 A modern, feature-rich to-do list application with dark mode, local storage persistence, and beautiful notifications.
 
-![Smart To-Do List Screenshot](screenshot.png)
+![Smart To-Do List Screenshot](./img/smart-todo-list.png)
 
 ## ✨ Features
 
